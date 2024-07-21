@@ -144,3 +144,4 @@ techpack/
 
 # Link of devicetree
 arch/arm64/boot/dts/vendor
+out/
